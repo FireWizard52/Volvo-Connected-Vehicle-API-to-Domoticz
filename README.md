@@ -13,11 +13,12 @@ Before you are able to request the valid key and other needed credentials, you h
 3. Obtain a valid VCC API Key and an User Access Token.
 
 If you own a Volvo Car and have a valid subscription to Volvo on Call, you may get a User Access Token for your own car.
-The Node Red flow contains two "Configuration" nodes. In the first node (most left) you should insert the obtained VCC API Key and the User Access Token.
+
+4. The Node Red flow contains two "Configuration" nodes. In the first node (most left) you should insert the obtained VCC API Key and the User Access Token.
 The second "Configuration" node is only for Domoticz users and may left untouched by others.
 Domoticz users have to insert the Domoticz IDX number of their corresponding virtual sensor or switch.
 
-4. Start the flows.
+5. Start the flows.
 You can inject the timestamp in the "Inject" to start the flows. Feel free to configure the "Inject" nodes to your desired values.
 
 Note.
