@@ -18,8 +18,10 @@ If you own a Volvo Car and have a valid subscription to Volvo on Call, you may g
 The second "Configuration" node is only for Domoticz users and may left untouched by others.
 Domoticz users have to insert the Domoticz IDX number of their corresponding virtual sensor or switch.
 
-5. Start the flows.
-You can inject the timestamp in the "Inject" to start the flows. Feel free to configure the "Inject" nodes to your desired values.
+5. Start the first flow and fetch your Vehicle Identification Number (VIN). This number is needed in order to fetch more data.
+
+6. Now you can start the desired flows. You can inject the timestamp in the "Inject" to start the flows.
+Feel free to configure the "Inject" nodes to your desired values.
 
 Note.
 
