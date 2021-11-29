@@ -32,4 +32,4 @@ Non Domoticz users may safely delete the last "Function" node for each flow and 
 
 Disclaimer.
 
-This is work in progress and the Volvo Extended Vehicle API is still in early beta, so may change in the future.
+This is work in progress and the Volvo Connected Vehicle API is still in early beta, so may change in the future.
